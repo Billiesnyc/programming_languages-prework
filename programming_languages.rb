@@ -4,6 +4,7 @@ def reformat_languages(languages)
     second_level.each do |key, value|
     new_hash << [:key]value    
     end
+    
   end
 end
 
